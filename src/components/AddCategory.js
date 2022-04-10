@@ -23,8 +23,6 @@ const AddCategory = ({ setCategory }) => {
 
         }
 
-        
-
     }
 
     return (
