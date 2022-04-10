@@ -1,5 +1,5 @@
 # GifExpertApp
-This project is created using the tutorial of this Course: 'https://www.udemy.com/course/react-cero-experto/'
+This project is created using the tutorial of this Course: https://www.udemy.com/course/react-cero-experto/
 
 To start the application:
 
